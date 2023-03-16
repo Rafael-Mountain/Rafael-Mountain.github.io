@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(28, 28, 28);
+    font-size: 2vi;
+}
+h1{
+    color: rgb(186, 135, 135);
+    font-size: 3rem;
+}
+p {
+    color: rgb(186, 135, 135);
+    margin: 15px 0px;
+    margin-right: 100px;
+    padding: 30px;
+    padding-right: 150px;
+    background-color: rgb(92, 104, 115);
+    border-radius: 5px;
+    box-shadow: 5px 5px rgba(86, 92, 97, 0.5);
+    
+}
